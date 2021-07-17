@@ -9,6 +9,10 @@
   "keywords": [],
   "author": "Mikolaj Marciniak",
   "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/miko1991/encryptly-auth-sdk"
+  },
   "dependencies": {
     "axios": "^0.21.1"
   }
