@@ -1,6 +1,5 @@
-const { checkToken, generateApp } = require("./src/methods");
+const { checkToken } = require("./src/methods");
 
 module.exports = {
   checkToken,
-  generateApp,
 };
